@@ -3,9 +3,9 @@ layout: post
 title: "Success Bridge"
 date: 2019-05-28
 excerpt: "Idiot proof success bot to post images from Discord to Twitter."
+project: true
 tags: [discord, supreme, aio, development, nodejs, node, javascript, typescript, twitter monitor, twitter api]
 comments: false
-project: true
 ---
 
 ### About
