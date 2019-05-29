@@ -4,8 +4,18 @@ title: "Twitter Monitor"
 date: 2019-05-28
 excerpt: "A lightweight, silky smooth Twitter monitor."
 project: true
-tags: [discord, supreme, aio, development, nodejs, node, javascript, typescript, twitter monitor, twitter api]
-comments: false
+tag:
+- discord
+- supreme
+- aio
+- development
+- nodejs
+- node
+- javascript
+- typescript
+- twitter monitor
+- twitter api
+comments: true
 ---
 
 ### About
