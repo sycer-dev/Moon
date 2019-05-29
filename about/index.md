@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Sycer
+tags: [sycer, development, discord, nodejs, supreme]
 date: 2016-03-21
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## About Me
+I started Sycer *checks watch* about 6 hours ago. Going under the name Fyko's Development was geting old, so I came up with Sycer. Don't ask about how I came up with the name, I have no clue.
+I strive to provide superb services for cook group owners, individuals, or those who just wanna test the program. With 6 months of Node.JS and Discord experience, I started to branch out into other APIs and situations. Look where I am now, juggling the Twitter API, one of the worlds largest social media outlets.
+I encourage my clients to expand their horizons and comminicate and like with other people like them, sprouting their success and becoming successful in suck a hot market.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## My Services
+Right after being all wholesome, lets talk about money. Head on over to my Services page to look at everything I offer.
