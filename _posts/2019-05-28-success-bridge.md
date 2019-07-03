@@ -39,7 +39,7 @@ Sycer's **Success Bridge** makes it easy for groups to flex their members succes
 
 ### Pricing
 $15 per month
-$40 lifetime
+$50 lifetime
 
 ### Other
 Would you like a live demo? Come join my [Discord Server](https://discord.gg/Agg6yFV)
