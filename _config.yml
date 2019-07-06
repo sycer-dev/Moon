@@ -34,7 +34,7 @@ google:
   #plus:            #username
   analytics:    UA-143343077-1
   #verify:
-  #ad-client:   ca-pub-6440602101104197
+  ad-client:   ca-pub-6440602101104197
   #ad-slot:
 #bing-verify:
 email:              sycerdev@gmail.com
