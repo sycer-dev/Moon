@@ -30,11 +30,11 @@ disqus_shortname:   fyko
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:    UA-143343077-1
   #verify:
-  #ad-client:
+  ad-client:   ca-pub-6440602101104197
   #ad-slot:
 #bing-verify:
 email:              sycerdev@gmail.com
