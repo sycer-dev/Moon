@@ -25,21 +25,13 @@ Sycer's **Success Bridge** makes it easy for groups to flex their members succes
 * posts messages from a specific Discord channel directly to your twitter handle
 * custom tweet text
 * custom status (ie: `Watching wallets explode! 🤑`)
-* staff approval before tweeting (people with specified role(s) trigger via reaction or command)
 * listen in multiple channels
-
-
-### Images
-{% capture images %}
-	https://i.imgur.com/dpu13dl.png
-	https://i.imgur.com/6d2qgLO.png
-	https://i.imgur.com/1eGsWDH.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Success Bridge" cols=3 %}
+* support for automatic or approval mode
+* unlimited tweet-text templates (ie: Success from {user} in #groupname)
+* leaderboard and leveling for users to track their succss
 
 ### Pricing
-$15 per month
-$50 lifetime
+$35/month or $150 lifetime
 
 ### Other
 Would you like a live demo? Come join my [Discord Server](https://discord.gg/Agg6yFV)
