@@ -4,8 +4,8 @@ bio:                "The leading provider for Discord Bots within the sneaker re
 description:        "The leading provider for Discord Bots within the sneaker resale community. 👟📈"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/wallpaper.png'
+logo:               'assets/img/logo1.png'
+background:         'assets/img/banner1.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sycer.dev
@@ -37,7 +37,7 @@ google:
   ad-client:   ca-pub-6440602101104197
   #ad-slot:
 #bing-verify:
-email:              sycerdev@gmail.com
+email:              fyko@sycer.dev
 twitter:            sycerdev
 #facebook:           username
 github-url:         sycer-dev
